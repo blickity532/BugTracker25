@@ -1,0 +1,30 @@
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).exe
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).deps.json
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).runtimeconfig.json
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).dll
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).pdb
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).AssemblyInfoInputs.cache
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).AssemblyInfo.cs
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).csproj.CoreCompileInputs.cache
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).sourcelink.json
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).dll
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\refint\BugTracker.ConsoleUI (Console).dll
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).pdb
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).genruntimeconfig.cache
+C:\Users\blick\Downloads\Bug Tracker25 (2)\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\ref\BugTracker.ConsoleUI (Console).dll
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).exe
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).deps.json
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).runtimeconfig.json
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).dll
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\bin\Debug\net9.0\BugTracker.ConsoleUI (Console).pdb
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).AssemblyInfoInputs.cache
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).AssemblyInfo.cs
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).csproj.CoreCompileInputs.cache
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).sourcelink.json
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).dll
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\refint\BugTracker.ConsoleUI (Console).dll
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).pdb
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\BugTracker.ConsoleUI (Console).genruntimeconfig.cache
+C:\Users\blick\Downloads\Bug Tracker25-1\Bug Tracker25\BugTracker.ConsoleUI (Console)\obj\Debug\net9.0\ref\BugTracker.ConsoleUI (Console).dll
