@@ -7,8 +7,7 @@
         {
             get;
         } // TODO: Rename to BugId for clarity
-          // The `Id` property is defined as read-only. A TODO comment suggests renaming it to `BugId` for better clarity.
-
+         
         public string Title
         {
             get;
