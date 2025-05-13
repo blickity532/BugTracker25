@@ -8,6 +8,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugTracker.Tests", "TestProject1\BugTracker.Tests.csproj", "{99BA0A76-5740-410D-B053-AC5E156C2902}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugTracker.ConsoleUI (Console)", "BugTracker.ConsoleUI (Console)\BugTracker.ConsoleUI (Console).csproj", "{46EBE923-487D-4471-8CC1-A35F18A6DE59}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7DB793D8-53F6-4A8F-A7B0-7B4335EFE196} = {7DB793D8-53F6-4A8F-A7B0-7B4335EFE196}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
