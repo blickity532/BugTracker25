@@ -55,8 +55,5 @@
             }
             // Added logic to update the `Status` property only if the new status is different from the current status.
         }
-
-        // TODO: Add a new property: AssignedToDeveloper with get and set accessors
-        // A TODO comment suggests adding a new property `AssignedToDeveloper` to track the developer assigned to the bug.
     }
 }
