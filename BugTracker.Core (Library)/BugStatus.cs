@@ -1,11 +1,16 @@
-﻿namespace BugTracker.Core
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BugTracker.Core
 {
-    public class BugStatus
+    public enum BugStatus
     {
-        public static BugStatus? Open
-        {
-            get;
-            internal set;
-        }
+        Open,
+        InProgress,
+        Pending,
+        Closed
     }
 }
